@@ -15,6 +15,7 @@ fsdf
 sdf
 sdf
 dff
+<<<<<<< HEAD
 retertert
 ert
 rt
@@ -39,3 +40,5 @@ sdf
 sd
 f
 sd
+=======
+>>>>>>> 336dd627b88ac99dae63dacc5391ddb95bc03fb2
