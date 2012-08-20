@@ -15,7 +15,6 @@ fsdf
 sdf
 sdf
 dff
-<<<<<<< HEAD
 retertert
 ert
 rt
@@ -25,20 +24,8 @@ ret
 dfgdfssdfs
 fsd
 dsf
-fs
-sfd
-sd
-fsd
-sd
-f
-df
-dsf
-dsf
-dsf
-df
-sdf
-sd
-f
-sd
-=======
->>>>>>> 336dd627b88ac99dae63dacc5391ddb95bc03fb2
+цууцццццццццц
+
+ываывыва
+вы
+авыыва
