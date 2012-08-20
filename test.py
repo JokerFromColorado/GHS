@@ -15,9 +15,3 @@ fsdf
 sdf
 sdf
 dff
-retertert
-ert
-rt
-terert
-ret
-
