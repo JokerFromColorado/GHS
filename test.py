@@ -12,7 +12,7 @@ zxc
 xzc
 xcz
 zxczcx
-
+sdfsdfsd
 we
 r
 wer
@@ -20,26 +20,22 @@ we
 we
 r
 wer
-werwtyuuytytu
+werwtyuuytytufsdfsdfs
 ytuasdassdaaaaaaaaaa
 
 asdasdasd
 sda
 sda
-uyty
+uytyfsdfsdf
 tu
 uyt
 yut
 yut
 ytu
 uty
-u
-
+sdf
 Are you logged in with same user?
-Do you see any js-error in Chrome? 
-
-1. To change root password goto:
-root user profile %Base_URL% + /user/root
+dsffsd
 and you can change password.
 
 
