@@ -3,7 +3,7 @@ wer
 wr
 wr
 rew
-ere
+eresassa
 wrrrrrrrrwer
 werdsfsdsdffdsdf
 we
@@ -15,15 +15,12 @@ fsdf
 sdf
 sdf
 dff
-retertert
+retertertassa
 ert
 rt
 terertasdadsasd
 ret
-
-dfgdfssdfs
-fsd
-dsf
+s
 öóóöööööööööösaddsaasd
 
 ûâàûâûâàtutyutuéöóéöó
@@ -31,11 +28,14 @@ dsf
 éöóôûâôûâôûâôûâôûâ
 é
 öóéö
-óé
-öóé
+asdsadöóé
 öóéöóéöó
 éöóéö
 ó
 âû
 àâûûâà
-tyutuytyutyu
+as
+asd
+as
+asd
+das
